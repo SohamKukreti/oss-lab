@@ -1,0 +1,3 @@
+[submodule "week1/simple-calculator"]
+	path = week1/simple-calculator
+	url = https://github.com/psarkerbd/Simple-Calculator
